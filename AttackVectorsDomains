@@ -1,10 +1,11 @@
-! Blocking domains associated with "local" journals that are attack vectors from state-backed information operations.
-! Homepage: 
-! Source:  https://github.com/MassMove/AttackVectors
-! Licence: https://github.com/MassMove/AttackVectors/blob/master/LICENSE
-! Title: MassMove/AttackVectors Domain List (Pi-Hole Friendly)
-! Domain count: 1,083
-! ===================================================================
+# Blocking domains associated with "local" journals that are attack vectors from state-backed information operations.
+# License: MIT
+# Repository: https://github.com/Meldon6/AttackVectors-Domain-List/
+# Source:  https://github.com/MassMove/AttackVectors
+# Licence: https://github.com/MassMove/AttackVectors/blob/master/LICENSE
+# Title: MassMove/AttackVectors Domain List (Pi-Hole Friendly)
+# Domain count: 1,083
+# ===================================================================
 abilenetimes.com
 abqtimes.com
 adairmadisonnews.com
