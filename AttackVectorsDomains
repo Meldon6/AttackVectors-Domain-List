@@ -4,13 +4,14 @@
 # Source:  https://github.com/MassMove/AttackVectors
 # Licence: https://github.com/MassMove/AttackVectors/blob/master/LICENSE
 # Title: MassMove/AttackVectors Domain List (Pi-Hole Friendly)
-# Domain count: 1,083
+# Domain count: 1,163
 # ===================================================================
 abilenetimes.com
 abqtimes.com
 adairmadisonnews.com
 adamscountytimes.com
 adareporter.com
+advantageinformatics.com
 aikentimes.com
 akbusinessdaily.com
 akronreporter.com
@@ -32,11 +33,13 @@ anokatimes.com
 antelopevalleytoday.com
 apopkatimes.com
 arbusinessdaily.com
+aroostooknews.com
 ashevillereporter.com
 ashlandreview.com
 athensreporter.com
 atlstandard.com
 auburntimes.com
+auroraneguide.com
 austintxnews.com
 azbusinessdaily.com
 baldwinparktoday.com
@@ -45,14 +48,18 @@ balkanbusinesswire.com
 baltimorecitywire.com
 baragaguide.com
 bartforillinois.com
+bartforillinois.com
 batonrougereporter.com
 battlecreektimes.com
+baystatenews.com
+beantowntimes.com
 beaverstatenews.com
 beehivestatenews.com
 beggsguide.com
 bentleyvilleguide.com
 bentontimes.com
 berkeleyleader.com
+bigislandtimes.com
 bigskytimes.com
 bisonguide.com
 bixbyguide.com
@@ -60,6 +67,7 @@ bloomingtonleader.com
 bluegrasstimes.com
 bluehillguide.com
 bluestonenews.com
+bnnwire.com
 boisecitywire.com
 boonecountyguide.com
 boulderleader.com
@@ -69,6 +77,9 @@ bpsmoguide.com
 branchguide.com
 bransontimes.com
 brevardsun.com
+brianforillinois.com
+bridgeporttimes.com
+bristolreporter.com
 buchanancountynews.com
 buckeyereporter.com
 burlingtonreporter.com
@@ -78,6 +89,7 @@ cabusinessdaily.com
 calaverasguide.com
 canadianvalleyguide.com
 cantonreporter.com
+capecodledger.com
 capemonews.com
 carbondalereporter.com
 carrollcoguide.com
@@ -113,6 +125,7 @@ chapelhillreview.com
 charlestonleader.com
 charlestonreporter.com
 chicagocitywire.com
+chicotimes.com
 chippewavalleytimes.com
 cincyreporter.com
 cistranfinance.com
@@ -139,6 +152,8 @@ columbiastandard.com
 columbusgroveguide.com
 columbusstandard.com
 conchovalleynews.com
+constitutionstatenews.com
+contentservices.co
 cookcountyrecord.com
 cornellransomguide.com
 cornhuskerstatenews.com
@@ -166,6 +181,7 @@ detroitcitywire.com
 dewittreview.com
 doctorphillipstoday.com
 dorchestertoday.com
+downeasttimes.com
 downrivertoday.com
 dubuquecoguide.com
 dubuquetimes.com
@@ -178,6 +194,7 @@ eastarapahoenews.com
 eastarizonanews.com
 eastcentralreporter.com
 eastclevelandnews.com
+eastcontracostanews.com
 eastdfwnews.com
 easternshoretimes.com
 easternwaynetoday.com
@@ -225,10 +242,12 @@ ecvirginianews.com
 ecwisconsinnews.com
 egyptianreview.com
 electcolonelcraigwilcox.com
+electcolonelcraigwilcox.com
 elizabethtowntimes.com
 elkharttimes.com
 elkhornguide.com
 ellensburgguide.com
+elpasoreview.com
 elpasostandard.com
 emeraldcoasttimes.com
 enchantmentstatenews.com
@@ -256,6 +275,7 @@ floydvalleyguide.com
 fondulacnews.com
 foothillsreview.com
 forestcountrynews.com
+forsmithtimes.com
 fortsmithtimes.com
 foxcitiesnews.com
 franklinarcher.com
@@ -267,6 +287,7 @@ gabusinessdaily.com
 gadsdentoday.com
 galesburgreporter.com
 galvaguide.com
+ganadoguide.com
 gastoniatimes.com
 gatewayreporter.com
 gemstatewire.com
@@ -276,6 +297,7 @@ germantownreview.com
 glaciercountrynews.com
 glendalesun.com
 glenelderguide.com
+goldcountrytoday.com
 goldenrodnews.com
 goldenstatetoday.com
 gothatoday.com
@@ -292,6 +314,7 @@ greenhillsreporter.com
 greensbororeporter.com
 greenvilleleader.com
 greenvillereporter.com
+gretnareview.com
 grimesjournal.com
 grundyguide.com
 grundyreporter.com
@@ -302,7 +325,10 @@ guthriecountyguide.com
 hamiltonreporter.com
 hancockguide.com
 hancocknyguide.com
+hannyguide.com
+hansondirectory.com
 harfordnews.com
+hartfordreporter.com
 hawkeyereporter.com
 henricotimes.com
 hernandoreporter.com
@@ -315,10 +341,12 @@ hiltonheadreporter.com
 hindstoday.com
 hollandreporter.com
 holyroodguide.com
+honolulureporter.com
 hoosierstatetoday.com
 hopkinsvilletimes.com
 hotspringstimes.com
 houmathibodauxnews.com
+housatonicvalleynews.com
 houstonrepublic.com
 howardconews.com
 hrdailywire.com
@@ -363,11 +391,14 @@ kankakeetimes.com
 kauaisun.com
 kcreporter.com
 kendallcountytimes.com
+kennyforillinois.com
 kenoshareporter.com
 kentcountytoday.com
 kentuckianatimes.com
+kerncountytimes.com
 keystonebusinessnews.com
 keywestreporter.com
+kinderhookguide.com
 kingscountytimes.com
 kingsportreporter.com
 kitsapreview.com
@@ -392,15 +423,24 @@ lansingreporter.com
 lansingsun.com
 laredotimes.com
 larimernews.com
+lastfrontiernews.com
+lasvegascitywire.com
 lasvegasrecord.com
 latinbusinessdaily.com
 lawrencereporter.com
+laxleader.com
 leetoday.com
 legalnewsline.com
+leipsicguide.com
+lewistontimes.com
+lgis.co
+libertyprinciples.com
 lickingtoday.com
 lightofbaldr.com
 limareporter.com
 linncountyguide.com
+litchfieldhillstoday.com
+littleappletimes.com
 livingstontoday.com
 lonestarstandard.com
 longviewtimes.com
@@ -425,14 +465,18 @@ magicvalleytimes.com
 magnoliastatenews.com
 mahaskaguide.com
 mainebusinessdaily.com
+mainehighlandsnews.com
+mainelakesnews.com
 maitlandtoday.com
 manateereview.com
 manilabusinessdaily.com
 mansfieldtimes.com
+margaretvilleguide.com
 marinleader.com
 marioncountyguide.com
 marionmorrowtimes.com
 marshallguide.com
+matsutimes.com
 mauireporter.com
 mchenrytimes.com
 mcleancountytimes.com
@@ -442,16 +486,21 @@ medinatoday.com
 megadealernews.com
 memphisstandard.com
 mercedtimes.com
+merrimackvalleynews.com
+metrobusinessnetwork.com
 metroeastsun.com
 metroeasttoday.com
 metrolexnews.com
+metrowesttimes.com
 mexicobusinessdaily.com
 miamicourant.com
 mibusinessdaily.com
 micapitolnews.com
 midcitytimes.com
 midcoasttimes.com
+midcoasttoday.com
 middleburghguide.com
+midmassnews.com
 midvalleyreporter.com
 millsfremontnews.com
 miltonvaleguide.com
@@ -488,6 +537,7 @@ naplesstandard.com
 nashvillestandard.com
 naturalstatenews.com
 naturecoasttimes.com
+naugatucktimes.com
 ncarkansasnews.com
 ncbusinessdaily.com
 ncfloridanews.com
@@ -495,6 +545,7 @@ ncgeorgianews.com
 ncindiananews.com
 nckansasnews.com
 nckentuckynews.com
+ncmassnews.com
 ncminnesotanews.com
 ncmissnews.com
 ncncnews.com
@@ -511,6 +562,7 @@ neatlantanews.com
 nebraskabusinessdaily.com
 necalinews.com
 necoloradonews.com
+neconnnews.com
 nedallasnews.com
 nefloridanews.com
 nefranklinnews.com
@@ -545,6 +597,7 @@ njbusinessdaily.com
 nmbusinessdaily.com
 nolareporter.com
 norcalrecord.com
+norfolkreporter.com
 nortextimes.com
 northacadiananews.com
 northalaskanews.com
@@ -552,6 +605,7 @@ northaustinnews.com
 northbaltimorejournal.com
 northbirminghamtimes.com
 northbluegrassnews.com
+northbostonnews.com
 northbrowardnews.com
 northcharlottetoday.com
 northcharolettenews.com
@@ -599,6 +653,7 @@ northpinellasnews.com
 northraleightoday.com
 northramseynews.com
 northrichmondtoday.com
+northsacramentotoday.com
 northsactoday.com
 northsanantonionews.com
 northsfvtoday.com
@@ -626,6 +681,7 @@ nwalabamanews.com
 nwarkansasnews.com
 nwatlantanews.com
 nwclarknews.com
+nwconnnews.com
 nwfranklinnews.com
 nwgeorgianews.com
 nwhoustonnews.com
@@ -685,6 +741,7 @@ peachtreetimes.com
 peculiarguide.com
 peedeenews.com
 pelicanstatenews.com
+pendoreilleguide.com
 pennbusinessdaily.com
 pennrecord.com
 pensacolatimes.com
@@ -698,22 +755,28 @@ pinaltoday.com
 pinebelttimes.com
 pinehursttoday.com
 pinellastimes.com
+pinestatenews.com
 plattenews.com
+plymouthreporter.com
 pocatellotimes.com
 pokalambroguide.com
 polktimes.com
+pomonavalleynews.com
 pontiactimes.com
 portagetimes.com
 portlandcourant.com
+portlandmainenews.com
 portstjoeguide.com
 powernewswire.com
 poweshiekguide.com
 prairiestatewire.com
 princewilliamreporter.com
+propertyinsurancewire.com
 pulaskitimes.com
 quincyreporter.com
 racinesun.com
 randolphcountynews.com
+reddingtoday.com
 redwoodempirenews.com
 renoreporter.com
 ribusinessdaily.com
@@ -722,6 +785,7 @@ ringgolddecaturnews.com
 riverbendtimes.com
 riverparishnews.com
 riverregiontimes.com
+rivervalleytoday.com
 rivieratxguide.com
 roanokesun.com
 rockfordsun.com
@@ -739,17 +803,20 @@ sanantoniostandard.com
 sandhillstoday.com
 sandiegorecord.com
 sandovalnews.com
+sanfranciscosun.com
 sanfransun.com
 sangamonsun.com
 sanjoaquintimes.com
 sanjosestandard.com
 sanmateosun.com
+santaclaratoday.com
 santacruzstandard.com
 santafestandard.com
 santarosareview.com
 sarasotareview.com
 savannahstandard.com
 scalaskanews.com
+scconnnews.com
 sckansasnews.com
 scmidlandnews.com
 scminnesotanews.com
@@ -769,8 +836,10 @@ seattlecitywire.com
 seattlesounder.com
 sebluegrassnews.com
 secoloradonews.com
+seconnnews.com
 sedallasnews.com
 sedenvernews.com
+segeorgianew.com
 segeorgianews.com
 segrandrapids.com
 sehoustonnews.com
@@ -859,6 +928,7 @@ southkingnews.com
 southknoxnews.com
 southlaketoday.com
 southlouisiananews.com
+southmainenews.com
 southmecklenburgnews.com
 southmianews.com
 southmichigannews.com
@@ -874,6 +944,7 @@ southpalmbeachtoday.com
 southpimanews.com
 southpinellastimes.com
 southraleighnews.com
+southsacramentotoday.com
 southsactoday.com
 southsanantonionews.com
 southsfbaynews.com
@@ -894,9 +965,11 @@ sowisconsintimes.com
 spartanburgreporter.com
 spokanecotimes.com
 spokanestandard.com
+springfieldrecord.com
 springfieldstandard.com
 springstimes.com
 spurguide.com
+stanislausnews.com
 stcharlestimes.com
 stclairtoday.com
 stcloudsun.com
@@ -918,6 +991,7 @@ swarizonanews.com
 swarkansastimes.com
 swbluegrassnews.com
 swcoloradonews.com
+swconnnews.com
 swdallasnews.com
 swgeorgianews.com
 swhoustonnews.com
@@ -953,6 +1027,7 @@ tnbusinessdaily.com
 tobacconewswire.com
 toledoreporter.com
 toniaforillinois.com
+toniaforillinois.com
 topekasun.com
 torontobusinessdaily.com
 treasurecoastsun.com
@@ -987,7 +1062,9 @@ vallianttoday.com
 vancouverreporter.com
 verdugosnews.com
 victorvalleytimes.com
+vincennestoday.com
 volunteerstatenews.com
+votejillian.com
 votejillian.com
 vtbusinessdaily.com
 wabusinessdaily.com
@@ -1021,6 +1098,7 @@ wcmissourinews.com
 wcnewmexiconews.com
 wctexasnews.com
 wcwisconsinnews.com
+wealthmanagementwire.com
 webertimes.com
 wenatcheetimes.com
 westarapahoenews.com
@@ -1047,6 +1125,7 @@ westlakenormannews.com
 westlatimes.com
 westlooptoday.com
 westlucasnews.com
+westmassnews.com
 westnovanews.com
 westoctimes.com
 westpdxtoday.com
@@ -1072,6 +1151,7 @@ williamsonnews.com
 wilsonguide.com
 wiltonreview.com
 windermeretoday.com
+winecountrytimes.com
 winstonsalemtimes.com
 wintergardentoday.com
 wiregrasstimes.com
